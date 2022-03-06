@@ -1,4 +1,6 @@
 package hello.servlet;
 
-public class HelloServlet {
+import javax.servlet.http.HttpServlet;
+
+public class HelloServlet extends HttpServlet {
 }
